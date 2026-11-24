@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1264" height="286" viewBox="0 0 1264 286" role="img" aria-label="Currently exploring">
+<title>Currently exploring</title>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#FE491C" stop-opacity="0.85"/><stop offset="0.35" stop-color="#232327"/><stop offset="1" stop-color="#232327" stop-opacity="0"/></linearGradient>
+
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .s{font-family:Georgia,'Times New Roman','DejaVu Serif',serif} .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+</defs>
+<rect width="1264" height="286" rx="20" fill="#0A0A0B"/><g transform="translate(32,28)"><text x="2" y="38" class="m" font-size="13" letter-spacing="3" fill="#FE491C">01</text>
+<text x="0" y="86" class="s" font-size="30" fill="#F5EFE6">AI and agents</text>
+<text x="0" y="126" font-size="16" fill="#A39C8E">AI powered business automation</text>
+<text x="0" y="158" font-size="16" fill="#A39C8E">Intelligent AI agents</text>
+<rect x="400" y="6" width="1" height="200" fill="#232327"/>
+<text x="430" y="38" class="m" font-size="13" letter-spacing="3" fill="#FE491C">02</text>
+<text x="428" y="86" class="s" font-size="30" fill="#F5EFE6">Engineering</text>
+<text x="428" y="126" font-size="16" fill="#A39C8E">Next.js and modern web engineering</text>
+<text x="428" y="158" font-size="16" fill="#A39C8E">Developer tooling and infrastructure</text>
+<rect x="800" y="6" width="1" height="200" fill="#232327"/>
+<text x="830" y="38" class="m" font-size="13" letter-spacing="3" fill="#FE491C">03</text>
+<text x="828" y="86" class="s" font-size="30" fill="#F5EFE6">Business systems</text>
+<text x="828" y="126" font-size="16" fill="#A39C8E">ERP and CRM architecture</text>
+<text x="828" y="158" font-size="16" fill="#A39C8E">Workflow automation</text>
+<text x="828" y="190" font-size="16" fill="#A39C8E">Scalable business technology</text></g>
+</svg>

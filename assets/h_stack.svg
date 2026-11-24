@@ -1,20 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="Tech stack">
-<title>Tech stack</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1264" height="126" viewBox="0 0 1264 126" role="img" aria-label="Stack">
+<title>Stack</title>
 <defs>
 <linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
-<linearGradient id="grv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
-<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#FE491C" stop-opacity="0.9"/><stop offset="0.6" stop-color="#FE491C" stop-opacity="0.15"/><stop offset="1" stop-color="#FE491C" stop-opacity="0"/></linearGradient>
-<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity="0.035"/></pattern>
+<linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#FE491C" stop-opacity="0.85"/><stop offset="0.35" stop-color="#232327"/><stop offset="1" stop-color="#232327" stop-opacity="0"/></linearGradient>
 
 <style>
-text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
-.m{font-family:'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace}
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .s{font-family:Georgia,'Times New Roman','DejaVu Serif',serif} .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace}
 
 @media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
 </defs>
-<text x="4" y="46" class="m" font-size="14" letter-spacing="3" fill="#FE491C">03</text>
-<text x="52" y="50" font-size="30" font-weight="800" letter-spacing="0.3" fill="#F5EFE6">Tech stack</text>
-<text x="1196" y="48" text-anchor="end" font-size="14" fill="#6E695F">Tools and platforms</text>
-<rect x="0" y="68" width="1200" height="2" fill="url(#fade)"/>
+<rect width="1264" height="126" rx="20" fill="#0A0A0B"/><g transform="translate(32,28)"><text x="2" y="44" class="m" font-size="13" letter-spacing="3" fill="#FE491C">03</text>
+<text x="52" y="52" class="s" font-size="36" fill="#F5EFE6">Stack</text>
+<rect x="0" y="66" width="1200" height="1" fill="url(#hl)"/></g>
 </svg>

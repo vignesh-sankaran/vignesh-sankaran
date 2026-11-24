@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1264" height="126" viewBox="0 0 1264 126" role="img" aria-label="Work">
+<title>Work</title>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#FE491C" stop-opacity="0.85"/><stop offset="0.35" stop-color="#232327"/><stop offset="1" stop-color="#232327" stop-opacity="0"/></linearGradient>
+
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .s{font-family:Georgia,'Times New Roman','DejaVu Serif',serif} .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+</defs>
+<rect width="1264" height="126" rx="20" fill="#0A0A0B"/><g transform="translate(32,28)"><text x="2" y="44" class="m" font-size="13" letter-spacing="3" fill="#FE491C">02</text>
+<text x="52" y="52" class="s" font-size="36" fill="#F5EFE6">Work</text>
+<rect x="0" y="66" width="1200" height="1" fill="url(#hl)"/></g>
+</svg>
