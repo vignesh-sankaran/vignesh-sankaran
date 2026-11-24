@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="Currently exploring">
+<title>Currently exploring</title>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
+<linearGradient id="grv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#FE491C" stop-opacity="0.9"/><stop offset="0.6" stop-color="#FE491C" stop-opacity="0.15"/><stop offset="1" stop-color="#FE491C" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity="0.035"/></pattern>
+
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+</defs>
+<text x="4" y="46" class="m" font-size="14" letter-spacing="3" fill="#FE491C">05</text>
+<text x="52" y="50" font-size="30" font-weight="800" letter-spacing="0.3" fill="#F5EFE6">Currently exploring</text>
+<text x="1196" y="48" text-anchor="end" font-size="14" fill="#6E695F">Where my focus is going</text>
+<rect x="0" y="68" width="1200" height="2" fill="url(#fade)"/>
+</svg>

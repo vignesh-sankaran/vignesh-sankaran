@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Currently exploring">
+<title>Currently exploring</title>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
+<linearGradient id="grv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#FE491C" stop-opacity="0.9"/><stop offset="0.6" stop-color="#FE491C" stop-opacity="0.15"/><stop offset="1" stop-color="#FE491C" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity="0.035"/></pattern>
+
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+</defs>
+<rect x="0" y="0" width="384" height="220" rx="16" fill="#121214" stroke="#26262B"/><rect x="0" y="0" width="384" height="220" rx="16" fill="url(#grid)"/>
+<text x="26" y="40" class="m" font-size="12" letter-spacing="2.5" fill="#FE491C">01  /  AI AND AGENTS</text>
+<rect x="26" y="54" width="40" height="3" rx="1.5" fill="url(#gr)"/>
+<circle cx="30" cy="91" r="3.5" fill="#FE491C"/><text x="46" y="96" font-size="16" fill="#F5EFE6">AI powered business automation</text>
+<circle cx="30" cy="125" r="3.5" fill="#FE491C"/><text x="46" y="130" font-size="16" fill="#F5EFE6">Intelligent AI agents</text>
+<rect x="408" y="0" width="384" height="220" rx="16" fill="#121214" stroke="#26262B"/><rect x="408" y="0" width="384" height="220" rx="16" fill="url(#grid)"/>
+<text x="434" y="40" class="m" font-size="12" letter-spacing="2.5" fill="#FE491C">02  /  ENGINEERING</text>
+<rect x="434" y="54" width="40" height="3" rx="1.5" fill="url(#gr)"/>
+<circle cx="438" cy="91" r="3.5" fill="#FE491C"/><text x="454" y="96" font-size="16" fill="#F5EFE6">Next.js and modern web engineering</text>
+<circle cx="438" cy="125" r="3.5" fill="#FE491C"/><text x="454" y="130" font-size="16" fill="#F5EFE6">Developer tooling and infrastructure</text>
+<rect x="816" y="0" width="384" height="220" rx="16" fill="#121214" stroke="#26262B"/><rect x="816" y="0" width="384" height="220" rx="16" fill="url(#grid)"/>
+<text x="842" y="40" class="m" font-size="12" letter-spacing="2.5" fill="#FE491C">03  /  BUSINESS SYSTEMS</text>
+<rect x="842" y="54" width="40" height="3" rx="1.5" fill="url(#gr)"/>
+<circle cx="846" cy="91" r="3.5" fill="#FE491C"/><text x="862" y="96" font-size="16" fill="#F5EFE6">ERP and CRM architecture</text>
+<circle cx="846" cy="125" r="3.5" fill="#FE491C"/><text x="862" y="130" font-size="16" fill="#F5EFE6">Workflow automation</text>
+<circle cx="846" cy="159" r="3.5" fill="#FE491C"/><text x="862" y="164" font-size="16" fill="#F5EFE6">Scalable business technology</text>
+</svg>

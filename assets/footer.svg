@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="Footer">
+<title>Footer</title>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
+<linearGradient id="grv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FE491C"/><stop offset="1" stop-color="#A40300"/></linearGradient>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#FE491C" stop-opacity="0.9"/><stop offset="0.6" stop-color="#FE491C" stop-opacity="0.15"/><stop offset="1" stop-color="#FE491C" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity="0.035"/></pattern>
+
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+</defs>
+<rect x="0" y="0" width="1200" height="2" fill="url(#fade)"/>
+<text x="600" y="36" text-anchor="middle" class="m" font-size="12" letter-spacing="2.5" fill="#6E695F">VIGNESH SANKARAN  /  CHENNAI, INDIA  /  FOUNDER, VED AUTOMATIONS</text>
+</svg>
